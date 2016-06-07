@@ -150,6 +150,8 @@
 /*********** USER SETUP AREA! Set your options here! *************/
 /*****************************************************************/
 
+#define MAGNETOMETER_ON  1
+
 // HARDWARE OPTIONS
 /*****************************************************************/
 // Select your hardware here by uncommenting one line!
